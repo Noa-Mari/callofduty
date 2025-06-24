@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CallOfDuty")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b887d02d87fb7d14764370c1cd821a07b8db1678")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17383f8bad53a4c443c6cb8a7cb5c86521af9f26")]
 [assembly: System.Reflection.AssemblyProductAttribute("CallOfDuty")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CallOfDuty")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
